@@ -1,10 +1,10 @@
-### MinhMXC
+## MinhMXC
 
 **`Studing Computer Science at National University of Singapore`**
 
 I enjoy learning about anything computer-related, be it building actual products or solving some crazy difficult agorithm questions. I have experience in developing Android apps and Web development. Now, I'm learning about computer graphics in my free time, trying to build my own ray-tracing engine.
 
-### Languages and Tools: 
+## Languages and Tools: 
 
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
@@ -28,10 +28,10 @@ I enjoy learning about anything computer-related, be it building actual products
 
 <br />
 
-### Stats
+## Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinhMXC)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=MinhMXC)  
 
-### [Personal Website](https://minhmxc.github.io/PersonalWebsite/)
+## [Personal Website](https://minhmxc.github.io/PersonalWebsite/)
