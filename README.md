@@ -30,8 +30,6 @@ I enjoy learning about anything computer-related, be it building actual products
 
 ## Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinhMXC)](https://github.com/anuraghazra/github-readme-stats)
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=MinhMXC)  
 
 ## [Personal Website](https://minhmxc.github.io/PersonalWebsite/)
