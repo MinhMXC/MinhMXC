@@ -32,4 +32,4 @@ I enjoy learning about anything computer-related, be it building actual products
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=MinhMXC)  
 
-## [Personal Website](https://minhmxc.github.io/PersonalWebsite/)
+## [Personal Website](https://minhmxc.github.io)
